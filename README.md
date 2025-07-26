@@ -57,6 +57,8 @@ To interact with the detailed visualizations and dashboard:
 
 1.  Download the Tableau workbook file (`.twb` or `.twbx`) from this repository.
 2.  Open the file using Tableau Desktop or Tableau Public.
+   
+![Electric Vehicle Data Analysis Dashboard](DASHBOARD.png)
 
 ## ⚖️ License
 
